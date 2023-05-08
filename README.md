@@ -35,5 +35,5 @@
 </div>
  <p align="center"> 
 
-  ![Snake animation](https://github.com/GeCorreia4/GeCorreia4/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/GeCorreia4/GeCorreia4/blob/output/github-contribuition-grid-snake.svg)
  </p>
