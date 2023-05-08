@@ -1,13 +1,10 @@
-## Faaaala dev, Luigi Aqui!
+## Faaaala dev, Gabriel Aqui!
 
 <div>
-  
   <img  height="145em" src="https://github-readme-stats.vercel.app/api?username=GeCorreia4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeCorreia4&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
