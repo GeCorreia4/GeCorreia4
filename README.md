@@ -33,5 +33,8 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+<div align="center">
+
+  ![Snake animation](https://github.com/GeCorreia4/GeCorreia4/blob/output/github-contribution-grid-snake.svg)
   
-![Snake animation](https://github.com/GeCorreia4/GeCorreia4/blob/output/github-contribution-grid-snake.svg)
+</div>
