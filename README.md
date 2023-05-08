@@ -33,3 +33,7 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/GeCorreia4/GeCorreia4/blob/main/.github/workflows/snake.yml)
+ </p>
