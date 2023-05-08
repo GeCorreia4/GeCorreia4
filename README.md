@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gabriel Correia
 
 - 🌱 Estudando HTML 
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/GeCorreia4">
