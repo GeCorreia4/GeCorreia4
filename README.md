@@ -1,8 +1,8 @@
 ## Faaaala dev, Gabriel Aqui!
 
 <div>
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=GeCorreia4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeCorreia4&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="185em" src="https://github-readme-stats.vercel.app/api?username=GeCorreia4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeCorreia4&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 <div  align="center"> 
