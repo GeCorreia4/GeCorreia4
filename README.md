@@ -22,7 +22,7 @@
     <a href = "https://www.linkedin.com/in/gabriel-souza-56158b248">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCO7I3xpCkIogqZzzoDgJ8EA">
+    <a href = "https://www.youtube.com/channel/UCO7I3xpCkIogqZzzoDgJ8EA" target="_blank">
       <img width="35" src="youtube.svg">
     </a>
     <a href = "https://instagram.com/https.gabriel.co_?igshid=NTc4MTIwNjQ2YQ==">
