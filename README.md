@@ -16,7 +16,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gecorreia778@gmail.com">
+    <a href = "mailto: gecorreia778@gmail.com" rel="new">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/gabriel-souza-56158b248">
