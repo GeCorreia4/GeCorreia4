@@ -1,5 +1,3 @@
-# Faaaala dev, Gabriel Aqui!
-
 <p align="center"> 
   <img src="https://github.com/GeCorreia4/GeCorreia4/blob/main/bgGit.png" />
 </p>
