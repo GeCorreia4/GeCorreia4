@@ -1,39 +1,52 @@
-<p align="center"> 
-  <img src="https://github.com/GeCorreia4/GeCorreia4/blob/main/bgGit.png" />
+![Banner](https://github.com/GeCorreia4/GeCorreia4/blob/main/bgGit.png)
+
+<!-- boasVinda -->
+<h2>FAAALA DEVS!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<h3>É um imenso prazer tê-los aqui!!</h3>
+
+<!-- sobreEu -->
+<p>
+Meu nome é Gabriel Correia de Souza. Estou cursando Análise e Desenvolvimento de Sistemas 🎓 pela Faculdade de Informática e Administração Paulista 🏛. Sou um estudante apaixonado, sempre disposto a aprender e trabalhar com tecnologia. Adoro explorar novas tecnologias e encontrar soluções para problemas do dia a dia ✨. Também tenho uma grande paixão por orientar e apoiar iniciantes no campo da tecnologia 👨🏻‍💻. Atualmente, estou focado em Desenvolvimento Full Stack 🕸️ e iniciando meus estudos em Machine Learning 🤓.
 </p>
 
-<div>
-  <img  height="179em" src="https://github-readme-stats.vercel.app/api?username=GeCorreia4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeCorreia4&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias!</h1>
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gecorreia778@gmail.com" target="_blank">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/gabriel-souza-56158b248">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCO7I3xpCkIogqZzzoDgJ8EA" target="_blank">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://instagram.com/https.gabriel.co_?igshid=NTc4MTIwNjQ2YQ==">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-<div>
-  <p align="center"> 
+---
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
- </p>
-</div>
+<!-- partePessoal -->
+<h3> Um pouco da minha vida pessoal:</h3>
+
+- 👨🏽‍💻 Atualmente, estou colaborando para a criação de uma software house chamada Logus Company. 😉
+
+- 🌱 Aperfeiçoando minhas práticas de metodologias ágeis diariamente! 🤓
+
+- 😁 Tenho um senso de humor um tanto peculiar haha 😂
+
+- 🐱‍👤 Não sou muito ativo em redes sociais... 📵
+
+- ⛩ Sou apaixonado pela cultura japonesa 🥰
+
+- 📍 Sou nascido e residente no estado de São Paulo, Brasil! 🏡
+
+---
+<!-- Profis -->
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> 
+<!--     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  TEC_STANDBAII--> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+<!--     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
+<!--     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
+    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
+</p>
+
+---
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> <b>Se tudo estiver certo, você encontrará alguns projetos ou materiais de estudos logo abaixo!</b>
+
+---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> </b> 😊 💜</em> 
