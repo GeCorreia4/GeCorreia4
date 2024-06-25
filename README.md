@@ -8,7 +8,7 @@
 <!-- sobreEu -->
 <p>
 Meu nome é Gabriel Correia de Souza. Estou cursando Análise e Desenvolvimento de Sistemas 🎓 pela Faculdade de Informática e Administração Paulista 🏛. Sou um estudante apaixonado, sempre disposto a aprender e trabalhar com tecnologia. Adoro explorar novas tecnologias e encontrar soluções para problemas do dia a dia ✨. Também tenho uma grande paixão por orientar e apoiar iniciantes no campo da tecnologia 👨🏻‍💻. Atualmente, estou focado em Desenvolvimento Full Stack 🕸️ e iniciando meus estudos em Machine Learning 🤓.
-</p>
+ </p>
 
 ---
 
@@ -43,10 +43,17 @@ Meu nome é Gabriel Correia de Souza. Estou cursando Análise e Desenvolvimento 
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
-</p>
+ </p>
 
 ---
-<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> <b>Se tudo estiver certo, você encontrará alguns projetos ou materiais de estudos logo abaixo!</b>
+
+<p align="center"><em><b>Não podemos deixar o mini-game da cobrinha morrer!!! HAHA 🐍😂</b></em></p>
+
+<p align="center"> 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> </b> 😊 💜</em> 
+
+<p align="center"><em><b>Se estiver tudo conforme o esperado, vocês estão vendo um belo readme haha 😂 <br> Desde já, agradeço pela sua atenção! ❤</b></em></p>
