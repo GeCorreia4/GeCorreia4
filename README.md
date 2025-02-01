@@ -42,6 +42,7 @@ Meu nome é Gabriel Correia de Souza. Estou cursando Análise e Desenvolvimento 
     <a href="https://nodejs.org" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="nodejs" width="40" height="40"/></a> 
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+    <a href="=https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/></a> 
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
  </p>
 
